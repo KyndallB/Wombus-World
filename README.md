@@ -7,9 +7,10 @@
   
    Unfortunately, the intern also spilled their iced mocha all over their workstation before sending us the data files. This caused the files to become corrupt. The data is still accurate, so assume no noise was added to the data set. However, some data was lost.
   
- 
-                                                     The Wumpus World Properties:
- 
+ <p align="center">
+                                                   The Wumpus World Properties:
+ </p>
+  
 • Partially observable: The Wumpus world is partially observable because the agent can only perceive the close environment such as an adjacent room.
 
 • Deterministic: It is deterministic, as the result and outcome of the world are already known.
@@ -22,15 +23,21 @@
 
 • One agent: The environment is a single agent as we have one agent only and Wumpus is not considered as an agent.
 
- 
-   ![the-wumpus-world-in-artificial-intelligence3](https://user-images.githubusercontent.com/110564772/208266581-17504a6b-287a-4222-a3a0-2a6f48b6336c.png)
-
-                                                                Actuators:   
-
+<p align="center">
+![4d035600-0afd-11eb-8052-a3f9a9d74041](https://user-images.githubusercontent.com/110564772/208266766-93ef8bda-a487-4b80-aba1-09d38f437f0f.png)
+</p>
+  
+<p align="center">
+                                                             Actuators:   
+</p>
+  
 • Left turn
 • Right turn
 • Move forward
 • Grab
 • Release
 • Shoot
-  
+
+<p align="center">
+   ![the-wumpus-world-in-artificial-intelligence3](https://user-images.githubusercontent.com/110564772/208266581-17504a6b-287a-4222-a3a0-2a6f48b6336c.png)
+</p>
