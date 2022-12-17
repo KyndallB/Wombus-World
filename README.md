@@ -1,5 +1,5 @@
 # Wombus-World
-                      (This repository contains methodology and techniques used to screen eligible candidates.)
+                    (This repository contains methodology and techniques used to screen eligible candidates.)
 
    A popular Artificial Intelligence exercise is the Wumpus World; it is inspired by the video game: "Hunt the Wumpus" invented by Gregory Yob in 1973. Wumpus World serves as an introduction to knowledge-based agents and knowledge representation. In the scenario, the agent is trying to navigate a series of rooms to reach gold, while not falling into any pits or being eaten by Wombi (the plural version of Wumpus).
   
@@ -8,7 +8,7 @@
    Unfortunately, the intern also spilled their iced mocha all over their workstation before sending us the data files. This caused the files to become corrupt. The data is still accurate, so assume no noise was added to the data set. However, some data was lost.
   
  
-                                                          The Wumpus world Properties:
+                                                     The Wumpus World Properties:
  
 • Partially observable: The Wumpus world is partially observable because the agent can only perceive the close environment such as an adjacent room.
 
@@ -25,7 +25,7 @@
  
    ![the-wumpus-world-in-artificial-intelligence3](https://user-images.githubusercontent.com/110564772/208266581-17504a6b-287a-4222-a3a0-2a6f48b6336c.png)
 
-                                                                    Actuators:   
+                                                                Actuators:   
 
 • Left turn
 • Right turn
