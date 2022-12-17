@@ -1,5 +1,5 @@
 # Wombus-World
-                    (This repository contains methodology and techniques used to screen eligible candidates.)
+             (This repository contains methodology and techniques used to screen eligible candidates.)
 
    A popular Artificial Intelligence exercise is the Wumpus World; it is inspired by the video game: "Hunt the Wumpus" invented by Gregory Yob in 1973. Wumpus World serves as an introduction to knowledge-based agents and knowledge representation. In the scenario, the agent is trying to navigate a series of rooms to reach gold, while not falling into any pits or being eaten by Wombi (the plural version of Wumpus).
   
@@ -24,8 +24,7 @@
 • One agent: The environment is a single agent as we have one agent only and Wumpus is not considered as an agent.
 
 <p align="center">
-![4d035600-0afd-11eb-8052-a3f9a9d74041](https://user-images.githubusercontent.com/110564772/208266766-93ef8bda-a487-4b80-aba1-09d38f437f0f.png)
-</p>
+<img width="500" src="https://repository-images.githubusercontent.com/254698189/4d035600-0afd-11eb-8052-a3f9a9d74041" alt="Wumpus World Pits and Rewards">
   
 <p align="center">
                                                              Actuators:   
@@ -39,5 +38,5 @@
 • Shoot
 
 <p align="center">
-   ![the-wumpus-world-in-artificial-intelligence3](https://user-images.githubusercontent.com/110564772/208266581-17504a6b-287a-4222-a3a0-2a6f48b6336c.png)
+<img width="500" src="https://www.massey.ac.nz/~mjjohnso/notes/59302/fig06.04.gif" alt="Wumpus World Matrix (Data Memory and Keys)">
 </p>
