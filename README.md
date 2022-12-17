@@ -1,5 +1,5 @@
 # Wombus-World
-             (This repository contains methodology and techniques used to screen eligible candidates.)
+ (This repository contains methodology and techniques used to screen eligible candidates.)
 
    A popular Artificial Intelligence exercise is the Wumpus World; it is inspired by the video game: "Hunt the Wumpus" invented by Gregory Yob in 1973. Wumpus World serves as an introduction to knowledge-based agents and knowledge representation. In the scenario, the agent is trying to navigate a series of rooms to reach gold, while not falling into any pits or being eaten by Wombi (the plural version of Wumpus).
   
