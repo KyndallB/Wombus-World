@@ -8,7 +8,7 @@
    Unfortunately, the intern also spilled their iced mocha all over their workstation before sending us the data files. This caused the files to become corrupt. The data is still accurate, so assume no noise was added to the data set. However, some data was lost.
   
  <p align="center">
-                                                   The Wumpus World Properties:
+                                                [The Wumpus World Properties]: (https://www.javatpoint.com/the-wumpus-world-in-artificial-intelligence)
  </p>
   
 • Partially observable: The Wumpus world is partially observable because the agent can only perceive the close environment such as an adjacent room.
@@ -27,16 +27,20 @@
 <img width="500" src="https://repository-images.githubusercontent.com/254698189/4d035600-0afd-11eb-8052-a3f9a9d74041" alt="Wumpus World Pits and Rewards">
   
 <p align="center">
-                                                             Actuators:   
+                                                             [Actuators]: (https://www.javatpoint.com/the-wumpus-world-in-artificial-intelligence)  
 </p>
-  
+
+<p align="center">  
 • Left turn
 • Right turn
 • Move forward
 • Grab
 • Release
 • Shoot
+</p>
 
 <p align="center">
 <img width="500" src="https://www.massey.ac.nz/~mjjohnso/notes/59302/fig06.04.gif" alt="Wumpus World Matrix (Data Memory and Keys)">
 </p>
+
+Explore each folder to find READme files that provide context regarding the folder content. 
