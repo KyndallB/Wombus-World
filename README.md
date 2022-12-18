@@ -1,5 +1,9 @@
 # Wombus-World
- (This repository contains methodology and techniques used to screen eligible candidates.)
+<p align="center">
+ <header>
+   <h2>Concept:</h2>
+ </header>
+ </p>
 
    A popular Artificial Intelligence exercise is the Wumpus World; it is inspired by the video game: "Hunt the Wumpus" invented by Gregory Yob in 1973. Wumpus World serves as an introduction to knowledge-based agents and knowledge representation. In the scenario, the agent is trying to navigate a series of rooms to reach gold, while not falling into any pits or being eaten by Wombi (the plural version of Wumpus).
   
@@ -7,9 +11,9 @@
   
    Unfortunately, the intern also spilled their iced mocha all over their workstation before sending us the data files. This caused the files to become corrupt. The data is still accurate, so assume no noise was added to the data set. However, some data was lost.
   
- <p align="center">
+<p align="center">
                            <a href="https://www.javatpoint.com/the-wumpus-world-in-artificial-intelligence">The Wumpus World Properties:</a>
- </p>
+</p>
   
 • Partially observable: The Wumpus world is partially observable because the agent can only perceive the close environment such as an adjacent room.
 
@@ -25,9 +29,11 @@
 
 <p align="center">
 <img width="500" src="https://repository-images.githubusercontent.com/254698189/4d035600-0afd-11eb-8052-a3f9a9d74041" alt="Wumpus World Pits and Rewards">
+</p>
+  
   
 <p align="center">
-                          <a href="https://www.javatpoint.com/the-wumpus-world-in-artificial-intelligence">Actuators:</a>  
+                        <a href="https://www.javatpoint.com/the-wumpus-world-in-artificial-intelligence">Actuators:</a>  
 </p>
 
 <p align="center">  
@@ -43,4 +49,36 @@
 <img width="500" src="https://www.massey.ac.nz/~mjjohnso/notes/59302/fig06.04.gif" alt="Wumpus World Matrix (Data Memory and Keys)">
 </p>
 
-Explore each folder to find READme files that provide context regarding the folder content. 
+<p align="center">
+ <header>
+<h3>Resources:</h3>
+ </header>
+ </p>
+
+The resources folder contains resources (csv files and instructions) used to execute analysis and produced from data transformation. 
+
+<p align="center">
+There were 2 orginal CSV files– both corrupted:
+ 
+1. wombi_candidates.csv
+ 
+2. wombi_employees.csv
+</p>
+
+<p align="center">
+There are 3 files produced from transforming and cleaning the datafiles using data imputation:
+</p>
+1. employees.csv (This file contains all employees with imputed data for missing values; the employees' score was used to calculate candidate scores.) 
+
+2. recruits.csv (This file contains all candidates with imputed data for missing values; this file also contains computed candidate scores.)
+ 
+3. top100.csv (This csv contains the top 100 candidates according to computed candidate scores.)
+
+<p align="center">
+ <header>
+ <h3>Scripts:</h3>
+ </header>
+ </p>
+ 
+ 
+The script folder contains a Jupyter Notebook script used to perform data transformation in Python and load the transformed data into SQL for easy reference. 
