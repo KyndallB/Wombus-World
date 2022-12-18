@@ -1,6 +1,8 @@
 # Wombus-World
 <p align="center">
- ## Concept:
+ <header>
+   <h2>Concept:</h2>
+ </header>
  </p>
 
    A popular Artificial Intelligence exercise is the Wumpus World; it is inspired by the video game: "Hunt the Wumpus" invented by Gregory Yob in 1973. Wumpus World serves as an introduction to knowledge-based agents and knowledge representation. In the scenario, the agent is trying to navigate a series of rooms to reach gold, while not falling into any pits or being eaten by Wombi (the plural version of Wumpus).
@@ -31,7 +33,7 @@
   
   
 <p align="center">
-                       ##   <a href="https://www.javatpoint.com/the-wumpus-world-in-artificial-intelligence">Actuators:</a>  
+                        <a href="https://www.javatpoint.com/the-wumpus-world-in-artificial-intelligence">Actuators:</a>  
 </p>
 
 <p align="center">  
@@ -47,8 +49,10 @@
 <img width="500" src="https://www.massey.ac.nz/~mjjohnso/notes/59302/fig06.04.gif" alt="Wumpus World Matrix (Data Memory and Keys)">
 </p>
 
-###<p align="center">
-<a href="[https://www.javatpoint.com/the-wumpus-world-in-artificial-intelligence](https://github.com/KyndallB/Wombus-World/tree/main/resources)">Resources:</a>
+<p align="center">
+ <header>
+<h3><a href="[https://www.javatpoint.com/the-wumpus-world-in-artificial-intelligence](https://github.com/KyndallB/Wombus-World/tree/main/resources)">Resources:</a></h3>
+ </header>
  </p>
 
 The resources folder contains resources (csv files and instructions) used to execute analysis and produced from data transformation. 
@@ -67,6 +71,8 @@ There are 3 files produced from transforming and cleaning the datafiles using da
 3. top100.csv (This csv contains the top 100 candidates according to computed candidate scores.)
 
 <p align="center">
-## <a href="[[https://www.javatpoint.com/the-wumpus-world-in-artificial-intelligence](https://github.com/KyndallB/Wombus-World/tree/main/resources)](https://github.com/KyndallB/Wombus-World/tree/main/scripts)">Scripts:</a>
+ <header>
+ <h3><a href="[[https://www.javatpoint.com/the-wumpus-world-in-artificial-intelligence](https://github.com/KyndallB/Wombus-World/tree/main/resources)](https://github.com/KyndallB/Wombus-World/tree/main/scripts)">Scripts:</a></h3>
+ </header>
  </p>
 The script folder contains a Jupyter Notebook script used to perform data transformation in Python and load the transformed data into SQL for easy reference. 
