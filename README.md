@@ -69,6 +69,7 @@ There were 2 orginal CSV files– both corrupted:
 There are 3 files produced from transforming and cleaning the datafiles using data imputation:
 </p>
 1. employees.csv (This file contains all employees with imputed data for missing values; the employees' score was used to calculate candidate scores.) 
+
 2. recruits.csv (This file contains all candidates with imputed data for missing values; this file also contains computed candidate scores.)
  
 3. top100.csv (This csv contains the top 100 candidates according to computed candidate scores.)
@@ -78,5 +79,6 @@ There are 3 files produced from transforming and cleaning the datafiles using da
  <h3>Scripts:</h3>
  </header>
  </p>
+ 
  
 The script folder contains a Jupyter Notebook script used to perform data transformation in Python and load the transformed data into SQL for easy reference. 
