@@ -81,4 +81,4 @@ There are 3 files produced from transforming and cleaning the datafiles using da
  </p>
  
  
-The script folder contains a Jupyter Notebook script used to perform data transformation in Python and load the transformed data into SQL for easy reference. 
+The script folder contains a Jupyter Notebook script used to perform data transformation in Python and load the transformed data into SQL for easy reference. (The "transform_and_loaded.ipynb" file is most relevant and contains all transformations, regression analysis, and a plethora of visualizations.)
