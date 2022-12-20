@@ -21,7 +21,8 @@
 <p align="center">
 
 | Properties |   | 
-| Partially observable:| The Wumpus world is partially observable because the agent can only perceive the close environment such as an adjacent room.  |   
+|------------|---|
+| Partially observable:| The Wumpus world is partially observable because the agent can only perceive the close environment such as an adjacent room.  | 
 | Deterministic: | It is deterministic, as the result and outcome of the world are already known. | 
 | Sequential: | The order is important, so it is sequential. | 
 | Static: | It is static as Wumpus and Pits are not moving. | 
@@ -38,7 +39,7 @@
   
  <p align="center">
  <header>
- h3>Analysis & Methodology</h3>
+ h3>Analysis & Methodology:</h3>
  </header>
  </p>
  
@@ -55,8 +56,11 @@
 
 </p>
 
+
+
 <p align="center">
  <img width="438" alt="image" src="https://user-images.githubusercontent.com/110564772/208702400-f7119199-13d0-4ed3-beb8-cd482ec55b07.png">
+
 (Find a more in-depth analysis in the "Battling Bots" pdf file!)
 </p> 
   
@@ -74,6 +78,7 @@ The resources folder contains resources (csv files and instructions) used to exe
 There were 2 orginal CSV files– both corrupted:
 
 | Resources |   | 
+|------------|---|
 | Original (Corrupted) Files: | wombi_candidates.csv; wombi_employees.csv |   
 | Dataset Used for Regression: | employees.csv | 
 | Datset used for Screening: | recruits.csv (contains imputed data for missing values and regression calclculated score) | 
@@ -92,5 +97,6 @@ There were 2 orginal CSV files– both corrupted:
 The script folder contains Jupyter Notebook scripts used to perform data transformation in Python and load the transformed data into SQL for easy reference. 
 
 | Scripts |   | 
+|------------|---|
 | Analysis Based on Imputation: | wombi_candidates.csv; (*less* accurate model; ~38% accuracy; MSE= 9.3671) |   
 | Analysis Without Imputation: | NonImputation Model.ipynb (*more* accurate model; ~66% accuracy; MSE= 3.2987)| 
