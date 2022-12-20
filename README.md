@@ -12,9 +12,12 @@
    Unfortunately, the intern also spilled their iced mocha all over their workstation before sending us the data files. This caused the files to become corrupt. The data is still accurate, so assume no noise was added to the data set. However, some data was lost.
   
 <p align="center">
-                           <a href="https://www.javatpoint.com/the-wumpus-world-in-artificial-intelligence">The Wumpus World Properties:</a>
+<header>
+                         <h3><a href="https://www.javatpoint.com/the-wumpus-world-in-artificial-intelligence">The Wumpus World Properties:</a></h3>
+</header>
 </p>
-  
+ 
+
 • Partially observable: The Wumpus world is partially observable because the agent can only perceive the close environment such as an adjacent room.
 
 • Deterministic: It is deterministic, as the result and outcome of the world are already known.
@@ -32,38 +35,34 @@
 </p>
   
   
-<p align="center">
-                        <a href="https://www.javatpoint.com/the-wumpus-world-in-artificial-intelligence">Actuators:</a>  
-</p>
-
-<p align="center">  
-• Left turn
-• Right turn
-• Move forward
-• Grab
-• Release
-• Shoot
-</p>
-
-<p align="center">
-<img width="500" src="https://www.massey.ac.nz/~mjjohnso/notes/59302/fig06.04.gif" alt="Wumpus World Matrix (Data Memory and Keys)">
-</p>
-
+ <p align="center">
+ <header>
+ <h3>Analysis:</h3>
+ </header>
+ </p>
+ 1. Linear Regression 
+ 2. Cross-validation 
+ 3. T-test
+ 4. Shapiro-Wilk Testing
+ <img width="438" alt="image" src="https://user-images.githubusercontent.com/110564772/208702400-f7119199-13d0-4ed3-beb8-cd482ec55b07.png">
+   
+  
 <p align="center">
  <header>
 <h3>Resources:</h3>
  </header>
  </p>
+ 
 
 The resources folder contains resources (csv files and instructions) used to execute analysis and produced from data transformation. 
 
 <p align="center">
 There were 2 orginal CSV files– both corrupted:
- 
+</p>
+
 1. wombi_candidates.csv
  
 2. wombi_employees.csv
-</p>
 
 <p align="center">
 There are 3 files produced from transforming and cleaning the datafiles using data imputation:
@@ -85,6 +84,6 @@ There are 3 files produced from transforming and cleaning the datafiles using da
  </p>
  
  
-The script folder contains a Jupyter Notebook script used to perform data transformation in Python and load the transformed data into SQL for easy reference. 
-1. The "NonImputation Model.ipynb" file is most relevant and contain the data transformations, regression analysis, and  visualizations.
+The script folder contains Jupyter Notebook scripts used to perform data transformation in Python and load the transformed data into SQL for easy reference. 
+1. The "NonImputation Model.ipynb" file is most relevant and contains the data transformations, regression analysis, and  visualizations.
 2. The "Transformed_and_loaded.ipynb" file contains a regression model based on imputed data which is comparably less accurate.  
