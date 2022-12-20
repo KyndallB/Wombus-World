@@ -44,8 +44,11 @@
  2. Cross-validation 
  3. T-test
  4. Shapiro-Wilk Testing
+
+
+<p align="center">
  <img width="438" alt="image" src="https://user-images.githubusercontent.com/110564772/208702400-f7119199-13d0-4ed3-beb8-cd482ec55b07.png">
-   
+</p> 
   
 <p align="center">
  <header>
