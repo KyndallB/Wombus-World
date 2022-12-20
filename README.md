@@ -71,8 +71,12 @@ There are 3 files produced from transforming and cleaning the datafiles using da
 1. employees.csv (This file contains all employees with imputed data for missing values; the employees' score was used to calculate candidate scores.) 
 
 2. recruits.csv (This file contains all candidates with imputed data for missing values; this file also contains computed candidate scores.)
- 
-3. top100.csv (This csv contains the top 100 candidates according to computed candidate scores.)
+
+
+3. top100.csv (This csv contains the top 100 candidates according to predicted candidate scores.)
+
+
+4. emp100.csv (This csv contains the top 100 employees according to provided employee scores.)
 
 <p align="center">
  <header>
@@ -81,4 +85,6 @@ There are 3 files produced from transforming and cleaning the datafiles using da
  </p>
  
  
-The script folder contains a Jupyter Notebook script used to perform data transformation in Python and load the transformed data into SQL for easy reference. (The "transform_and_loaded.ipynb" file is most relevant and contains all transformations, regression analysis, and a plethora of visualizations.)
+The script folder contains a Jupyter Notebook script used to perform data transformation in Python and load the transformed data into SQL for easy reference. 
+1. The "NonImputation Model.ipynb" file is most relevant and contain the data transformations, regression analysis, and  visualizations.
+2. The "Transformed_and_loaded.ipynb" file contains a regression model based on imputed data which is comparably less accurate.  
