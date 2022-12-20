@@ -43,7 +43,8 @@
  </header>
  </p>
  
- <p align="center">
+ <p>
+ 
 • Shapiro-Wilk Testing was used to investigate the original datasets' distributions– both were normal. 
 
 • The regression model was built by cross-validation in Python using train/test (70/30) subsets of data.
@@ -77,8 +78,6 @@ The resources folder contains resources (csv files and instructions) used to exe
 
 <p align="center">
 
-There were 2 orginal CSV files– both corrupted:
-
 | Resources |   | 
 |------------|---|
 | Original (Corrupted) Files: | wombi_candidates.csv; wombi_employees.csv |   
@@ -95,10 +94,8 @@ There were 2 orginal CSV files– both corrupted:
  <h3>Scripts:</h3>
  </header>
  </p>
- 
-The script folder contains Jupyter Notebook scripts used to perform data transformation in Python and load the transformed data into SQL for easy reference. 
 
-| Scripts |   | 
+| Jupyter Notebook Scripts |   | 
 |------------|---|
 | Analysis Based on Imputation: | wombi_candidates.csv; (*less* accurate model; ~38% accuracy; MSE= 9.3671) |   
 | Analysis Without Imputation: | NonImputation Model.ipynb (*more* accurate model; ~66% accuracy; MSE= 3.2987)| 
