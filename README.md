@@ -17,18 +17,25 @@
 </header>
 </p>
  
+ 
+<p align="center">
 
-• Partially observable: The Wumpus world is partially observable because the agent can only perceive the close environment such as an adjacent room.
+| Properties |   | 
+| :---:   | :---: | 
+| Partially observable:| The Wumpus world is partially observable because the agent can only perceive the close environment such as an adjacent room.  |   
+| :---:   | :---: | 
+| Deterministic: | It is deterministic, as the result and outcome of the world are already known. | 
+| :---:   | :---: | 
+| Sequential: | The order is important, so it is sequential. | 
+| :---:   | :---: | 
+| Static: | It is static as Wumpus and Pits are not moving. | 
+| :---:   | :---: | 
+| Discrete:  | The environment is discrete. | 
+| :---:   | :---: | 
+| One agent: | The environment is a single agent as we have one agent only and Wumpus is not considered as an agent. | 
 
-• Deterministic: It is deterministic, as the result and outcome of the world are already known.
+</p>
 
-• Sequential: The order is important, so it is sequential.
-
-• Static: It is static as Wumpus and Pits are not moving.
-
-• Discrete: The environment is discrete.
-
-• One agent: The environment is a single agent as we have one agent only and Wumpus is not considered as an agent.
 
 <p align="center">
 <img width="500" src="https://repository-images.githubusercontent.com/254698189/4d035600-0afd-11eb-8052-a3f9a9d74041" alt="Wumpus World Pits and Rewards">
@@ -37,15 +44,21 @@
   
  <p align="center">
  <header>
- <h3>Analysis:</h3>
+ h3><a href="https://www.javatpoint.com/the-wumpus-world-in-artificial-intelligence">Analysis & Methodology</a></h3>
  </header>
  </p>
  
  <p align="center">
-• Linear Regression 
-• Cross-validation 
-• T-test
-• Shapiro-Wilk Testing
+• Shapiro-Wilk Testing was used to investigate the original datasets' distributions– both were normal. 
+
+• The regression model was built by cross-validation in Python using train/test (70/30) subsets of data.
+ 
+• Employee scores were used to predict and calculate candidate scores via regression analysis.
+
+• The regression equation was used to create a new score variable for employees called "predicted score"; the predicted and original scores were compared via MSE.
+
+• The candidate and employee descriptive statistics were compared for similarity using T-test for unequal variances. 
+
 </p>
 
 <p align="center">
@@ -62,25 +75,23 @@
 The resources folder contains resources (csv files and instructions) used to execute analysis and produced from data transformation. 
 
 <p align="center">
+
 There were 2 orginal CSV files– both corrupted:
+
+| Resources |   | 
+| :---:   | :---: | 
+| Original (Corrupted) Files: | wombi_candidates.csv; wombi_employees.csv |   
+| :---:   | :---: | 
+| Dataset Used for Regression: | employees.csv | 
+| :---:   | :---: | 
+| Datset used for Screening: | recruits.csv (contains imputed data for missing values and regression calclculated score) | 
+| :---:   | :---: | 
+| Screened Dataset: | top100.csv (top 100 candidates based on calculated/predicted score) | 
+| :---:   | :---: | 
+| Dataset Used for Comparison:  | emp100.csv (top 100 employees according to provided employee scores) | 
+
 </p>
 
-1. wombi_candidates.csv
- 
-2. wombi_employees.csv
-
-<p align="center">
-There are 3 files produced from transforming and cleaning the datafiles using data imputation:
-</p>
-1. employees.csv (This file contains all employees with imputed data for missing values; the employees' score was used to calculate candidate scores.) 
-
-2. recruits.csv (This file contains all candidates with imputed data for missing values; this file also contains computed candidate scores.)
-
-
-3. top100.csv (This csv contains the top 100 candidates according to predicted candidate scores.)
-
-
-4. emp100.csv (This csv contains the top 100 employees according to provided employee scores.)
 
 <p align="center">
  <header>
@@ -92,3 +103,9 @@ There are 3 files produced from transforming and cleaning the datafiles using da
 The script folder contains Jupyter Notebook scripts used to perform data transformation in Python and load the transformed data into SQL for easy reference. 
 1. The "NonImputation Model.ipynb" file is most relevant and contains the data transformations, regression analysis, and  visualizations.
 2. The "Transformed_and_loaded.ipynb" file contains a regression model based on imputed data which is comparably less accurate.  
+
+| Scripts |   | 
+| :---:   | :---: | 
+| Analysis Based on Imputation: | wombi_candidates.csv; (*less* accurate model; ~38% accuracy; MSE= 9.3671) |   
+| :---:   | :---: | 
+| Analysis Without Imputation: | NonImputation Model.ipynb (*more* accurate model; ~66% accuracy; MSE= 3.2987)| 
