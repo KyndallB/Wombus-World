@@ -39,7 +39,7 @@
   
  <p align="center">
  <header>
- h3>Analysis & Methodology:</h3>
+ <h3>Analysis & Methodology:</h3>
  </header>
  </p>
  
@@ -60,15 +60,17 @@
 
 <p align="center">
  <img width="438" alt="image" src="https://user-images.githubusercontent.com/110564772/208702400-f7119199-13d0-4ed3-beb8-cd482ec55b07.png">
-
-(Find a more in-depth analysis in the "Battling Bots" pdf file!)
 </p> 
-  
+<p align="center">
+(Find a more in-depth analysis in the "Battling Bots" pdf file!)
+</p>
+
+
 <p align="center">
  <header>
 <h3>Resources:</h3>
  </header>
- </p>
+</p>
  
 
 The resources folder contains resources (csv files and instructions) used to execute analysis and produced from data transformation. 
