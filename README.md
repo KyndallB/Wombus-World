@@ -36,6 +36,16 @@
 <img width="500" src="https://repository-images.githubusercontent.com/254698189/4d035600-0afd-11eb-8052-a3f9a9d74041" alt="Wumpus World Pits and Rewards">
 </p>
   
+ 
+ 
+  
+ <p align="center">
+ <header>
+   <h2>The Project:</h2>
+ </header>
+ </p> 
+  
+ 
   
  <p align="center">
  <header>
