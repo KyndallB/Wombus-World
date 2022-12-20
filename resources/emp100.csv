@@ -1,0 +1,101 @@
+,wombus_id,birth_continent,gender,age,college_degree,problem_solving_skill,technology_skill,english_skill,most_recent_income,total_jobs,shirt_color_preference,customer_exp_preference,work_env_preference,personal_growth_preference,honest_communication_preference,community_service_preference,remote_work_preference,industry_preference,score
+187327,188881,North America,Male,62.0,1.0,12.017056,1.0,10.09287147,67850.0,9.0,Purple,Strongly Agree,Strongly Disagree,Neutral,Disagree,Strongly Agree,On-Site,Higher Education,92.54
+66537,68091,North America,Female,64.0,0.0,7.912989581,17.66993189,9.573698368,78650.0,6.0,Blue,Agree,Disagree,Agree,Strongly Agree,Strongly Agree,On-Site,Renewable Energy,92.38
+62621,64175,North America,Male,55.0,1.0,15.88298763,16.47316711,9.725070012,57676.0,6.0,Purple,Agree,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Remote,Tech,92.03
+132596,134150,North America,Male,52.0,0.0,7.45701083,26.07111258,9.513082204,79850.0,3.0,Purple,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,On-Site,Finance,91.35
+134923,136477,North America,Male,46.0,0.0,18.41656022,10.96469563,9.932533641,51009.0,7.0,Purple,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,On-Site,Finance,91.28
+187357,188911,North America,Female,57.0,1.0,16.11853468,9.797604887,9.889499621,57056.0,7.0,Blue,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Hybrid,Renewable Energy,91.26
+126761,128315,North America,Female,36.0,0.0,15.71582791,5.766666165,10.01214947,58116.0,8.0,Purple,Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,On-Site,Finance,90.87
+198974,200528,North America,Female,37.0,1.0,12.36389759,14.83795284,9.790599828,66937.0,6.0,Purple,Strongly Agree,Neutral,Strongly Agree,Neutral,Strongly Agree,On-Site,Tech,90.51
+162797,164351,Europe,Male,45.0,0.0,18.66873831,15.87488791,7.10352625,50345.0,5.0,Purple,Strongly Agree,Neutral,Agree,Strongly Agree,Strongly Agree,Remote,Tech,90.47
+227214,228768,South America,Female,44.0,0.0,13.53229891,1.0,10.11091521,63862.0,10.0,Purple,Agree,Strongly Disagree,Agree,Neutral,Strongly Agree,On-Site,Tech,90.24
+190333,191887,North America,Female,42.0,0.0,10.59613842,24.60168887,9.341690069,71589.0,4.0,Purple,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Remote,Tech,90.12
+165455,167009,Africa,Female,36.0,0.0,9.206217101,21.54038031,6.557888093,75247.0,5.0,Purple,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,On-Site,Higher Education,90.09
+45576,47130,Asia,Female,50.0,0.0,8.099275728,20.42928118,6.831557927,78160.0,5.0,Blue,Strongly Agree,Disagree,Strongly Agree,Neutral,Agree,Remote,Tech,89.75
+193380,194934,Asia,Male,41.0,0.0,14.43649907,16.93850853,6.900247781,61483.0,6.0,Purple,Agree,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,On-Site,Tech,89.66
+174878,176432,North America,Male,47.0,0.0,10.37010744,4.523757373,10.02271364,72184.0,8.0,Blue,Strongly Disagree,Disagree,Agree,Strongly Agree,Strongly Agree,Remote,Tech,89.64
+58562,60116,South America,Female,49.0,0.0,16.71940517,10.35208076,9.918186148,55475.0,7.0,Purple,Agree,Neutral,Strongly Agree,Neutral,Strongly Agree,Remote,Tech,89.42
+145839,147393,North America,Female,36.0,0.0,11.53944051,21.06041593,9.586763241,69107.0,5.0,Purple,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Hybrid,Tech,88.9
+91307,92861,North America,Female,55.0,0.0,6.445196026,15.80394513,9.779286662,82513.0,6.0,Purple,Strongly Agree,Disagree,Agree,Neutral,Strongly Agree,Hybrid,Higher Education,88.82
+81615,83169,Asia,Male,48.0,1.0,9.737065328,13.32785702,7.036517132,73850.0,7.0,Blue,Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,Hybrid,Finance,88.65
+44251,45805,North America,Male,61.0,1.0,13.1053927,19.41247624,9.508278905,64986.0,6.0,Purple,Neutral,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,On-Site,Finance,88.64
+125262,126816,Asia,Male,45.0,0.0,7.383732828,24.73043273,6.87849965,80043.0,3.0,Purple,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree,On-Site,Finance,88.51
+208086,209640,North America,Female,33.0,0.0,15.78368395,15.58428353,9.823983644,57938.0,6.0,Blue,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,On-Site,Tech,88.44
+2500,4054,North America,Male,44.0,0.0,5.569588888,19.44283062,9.563585773,84817.0,5.0,Purple,Strongly Agree,Disagree,Agree,Strongly Agree,Agree,Hybrid,Renewable Energy,88.25
+161270,162824,Asia,Male,58.0,1.0,9.797929594,21.59627765,6.809017069,73690.0,5.0,Purple,Agree,Neutral,Agree,Strongly Agree,Strongly Agree,On-Site,Finance,88.22
+24074,25628,South America,Female,58.0,0.0,11.23424804,19.22227325,9.538281041,69910.0,6.0,Blue,Strongly Agree,Neutral,Agree,Strongly Agree,Strongly Agree,Hybrid,Tech,88.2
+125400,126954,Asia,Male,38.0,0.0,9.707152432,26.67466566,6.712708812,73929.0,3.0,Purple,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Hybrid,Finance,88.19
+223777,225331,North America,Female,44.0,0.0,11.21608343,17.39395019,9.502619194,69958.0,6.0,Purple,Strongly Agree,Strongly Agree,Agree,Neutral,Strongly Agree,Remote,Tech,88.18
+90864,92418,Europe,Female,56.0,0.0,9.536338037,22.84394339,6.914935997,74378.0,4.0,Purple,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Hybrid,Tech,88.12
+106333,107887,North America,Male,65.0,0.0,17.34778498,12.35146911,9.654052392,53822.0,8.0,Blue,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Hybrid,Higher Education,88.12
+168966,170520,North America,Male,48.0,1.0,14.93067513,15.01705442,9.727658284,60182.0,6.0,Purple,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Hybrid,Tech,87.93
+103,1657,Asia,Male,47.0,0.0,14.08118107,13.57001762,7.116295058,62418.0,6.0,Blue,Strongly Agree,Strongly Agree,Agree,Neutral,Strongly Agree,On-Site,Renewable Energy,87.87
+9115,10669,Europe,Female,42.0,1.0,2.897236733,19.98559581,6.907142395,91849.0,5.0,Blue,Strongly Agree,Strongly Agree,Agree,Neutral,Strongly Agree,Hybrid,Tech,87.84
+58144,59698,Asia,Male,41.0,1.0,8.12752364,26.50297517,5.713421876,78085.0,4.0,Purple,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,On-Site,Tech,87.82
+121468,123022,Africa,Male,42.0,0.0,14.90205181,1.0,7.335098537,60258.0,9.0,Purple,Neutral,Strongly Agree,Agree,Neutral,Strongly Agree,On-Site,Renewable Energy,87.79
+200839,202393,North America,Male,31.0,0.0,14.05915642,18.9899808,9.659186866,62476.0,5.0,Purple,Strongly Agree,Neutral,Agree,Strongly Agree,Strongly Agree,On-Site,Higher Education,87.77
+233058,234612,North America,Male,60.0,0.0,6.768052264,22.75812285,9.406585856,81663.0,5.0,Blue,Strongly Agree,Neutral,Agree,Neutral,Strongly Agree,On-Site,Finance,87.74
+226542,228096,North America,Female,46.0,0.0,11.8054127,24.55494318,9.130712376,68407.0,4.0,Blue,Strongly Agree,Neutral,Agree,Strongly Agree,Strongly Agree,On-Site,Finance,87.59
+134728,136282,North America,Male,66.0,0.0,13.62832174,13.87043941,9.813179918,63610.0,6.0,Purple,Strongly Agree,Neutral,Agree,Disagree,Strongly Agree,Remote,Tech,87.51
+66949,68503,Asia,Female,43.0,0.0,10.57327348,27.62087563,6.007562402,71649.0,4.0,Purple,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Remote,Tech,87.44
+98824,100378,North America,Female,53.0,0.0,12.637998,19.57228748,9.64630351,66216.0,5.0,Blue,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,On-Site,Higher Education,87.36
+137927,139481,North America,Male,36.0,0.0,17.57404795,9.823278361,9.946273637,53226.0,7.0,Purple,Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Hybrid,Tech,87.35
+81849,83403,North America,Female,52.0,0.0,9.887925448,26.58480468,9.415419158,73453.0,3.0,Blue,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,On-Site,Renewable Energy,87.1
+80668,82222,North America,Female,35.0,0.0,3.944201458,26.1099305,8.51376544,89094.0,4.0,Blue,Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Agree,On-Site,Tech,87.07
+78578,80132,Europe,Female,40.0,0.0,8.842805534,27.11649511,6.058988271,76203.0,4.0,Blue,Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,On-Site,Higher Education,87.05
+230983,232537,North America,Female,56.0,0.0,8.709497364,21.76461261,9.536086173,76554.0,5.0,Purple,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,On-Site,Finance,86.81
+139532,141086,Asia,Female,28.0,0.0,9.185965333,15.20299215,7.082332232,75300.0,6.0,Purple,Strongly Agree,Neutral,Disagree,Strongly Agree,Strongly Agree,On-Site,Finance,86.76
+76443,77997,Asia,Male,53.0,0.0,17.65719664,10.02733121,7.272073975,53007.0,6.0,Blue,Agree,Strongly Agree,Agree,Strongly Agree,Agree,On-Site,Finance,86.75
+218568,220122,North America,Male,40.0,0.0,9.266778008,7.768127468,10.02232614,75087.0,7.0,Blue,Strongly Agree,Neutral,Agree,Neutral,Agree,Hybrid,Tech,86.58
+14914,16468,North America,Female,40.0,0.0,15.06678449,4.390864872,9.990417519,59824.0,9.0,Purple,Strongly Agree,Disagree,Strongly Agree,Neutral,Agree,Hybrid,Higher Education,86.52
+223498,225052,Africa,Female,55.0,0.0,5.472962448,12.70987247,6.892652193,85071.0,8.0,Blue,Strongly Agree,Neutral,Disagree,Strongly Agree,Agree,Hybrid,Finance,86.43
+133460,135014,North America,Female,55.0,1.0,10.28699213,20.86925881,9.611251636,72403.0,5.0,Blue,Strongly Agree,Strongly Agree,Agree,Neutral,Strongly Agree,On-Site,Finance,86.41
+140099,141653,Africa,Male,49.0,0.0,10.31441457,21.50450957,6.86376132,72330.0,4.0,Purple,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Agree,On-Site,Finance,86.28
+85808,87362,North America,Female,48.0,0.0,9.658487761,15.27472217,9.8521993,74057.0,6.0,Blue,Neutral,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Hybrid,Tech,86.27
+190608,192162,North America,Male,56.0,1.0,13.59863217,25.31087324,9.196939237,63688.0,4.0,Blue,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Hybrid,Tech,86.25
+64050,65604,Africa,Female,50.0,0.0,13.35051081,29.47389799,5.435630027,64341.0,3.0,Purple,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,On-Site,Renewable Energy,86.22
+177660,179214,Asia,Male,55.0,1.0,10.49047776,21.13341241,6.779828029,71867.0,5.0,Blue,Agree,Strongly Disagree,Agree,Agree,Strongly Agree,Remote,Tech,86.18
+176673,178227,Asia,Female,41.0,0.0,12.40715978,30.31728779,5.809886716,66823.0,3.0,Purple,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,On-Site,Finance,86.17
+60249,61803,North America,Female,52.0,0.0,6.970307025,30.62390256,8.823568631,81131.0,2.0,Purple,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,On-Site,Tech,86.11
+160468,162022,North America,Female,48.0,0.0,13.38777336,8.395330744,9.974599382,64243.0,7.0,Purple,Neutral,Strongly Agree,Agree,Neutral,Strongly Agree,On-Site,Tech,86.07
+10606,12160,North America,Male,42.0,0.0,9.336230616,13.64803894,9.785041477,74905.0,7.0,Purple,Agree,Disagree,Disagree,Strongly Agree,Strongly Agree,On-Site,Tech,85.93
+21400,22954,North America,Male,30.0,1.0,12.50682737,14.03230372,9.836851784,66561.0,6.0,Blue,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Hybrid,Tech,85.78
+22945,24499,Asia,Female,38.0,0.0,17.20764099,28.31590103,5.757529774,54190.0,3.0,Purple,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Remote,Tech,85.71
+27999,29553,North America,Male,61.0,0.0,9.099244053,24.3197962,9.146865211,75528.0,4.0,Blue,Agree,Neutral,Agree,Agree,Strongly Agree,Remote,Tech,85.56
+106647,108201,Africa,Male,49.0,0.0,9.844731152,12.6370517,7.046708558,73566.0,7.0,Blue,Agree,Strongly Agree,Agree,Agree,Agree,On-Site,Finance,85.55
+127460,129014,North America,Male,29.0,0.0,10.67316626,23.93559402,9.085634406,71386.0,5.0,Blue,Strongly Agree,Disagree,Agree,Strongly Agree,Strongly Agree,On-Site,Tech,85.52
+142367,143921,Asia,Female,52.0,0.0,11.71048315,20.20286794,6.772326318,68657.0,5.0,Purple,Strongly Agree,Disagree,Strongly Agree,Neutral,Strongly Agree,Hybrid,Tech,85.5
+121391,122945,North America,Male,48.0,0.0,15.99076086,25.88762042,9.107676534,57393.0,4.0,Purple,Strongly Agree,Disagree,Agree,Strongly Agree,Strongly Agree,Remote,Tech,85.46
+14025,15579,Africa,Male,33.0,0.0,5.879713792,22.43327093,6.743163261,84001.0,4.0,Purple,Agree,Strongly Agree,Agree,Strongly Agree,Agree,On-Site,Tech,85.44
+208887,210441,North America,Female,48.0,0.0,10.90275152,29.36958273,9.071053467,70782.0,3.0,Blue,Agree,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,On-Site,Tech,85.44
+78932,80486,North America,Male,51.0,0.0,16.83339426,17.99525847,9.849396926,55175.0,5.0,Blue,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Hybrid,Finance,85.39
+69353,70907,Africa,Female,55.0,0.0,20.75590788,12.70877203,7.049477906,44853.0,7.0,Purple,Neutral,Neutral,Agree,Strongly Agree,Strongly Agree,Remote,Tech,85.37
+112819,114373,North America,Female,51.0,0.0,11.06743626,17.64364672,9.578197404,70349.0,6.0,Blue,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Hybrid,Higher Education,85.33
+62607,64161,North America,Female,40.0,0.0,16.74844653,15.4289179,9.724650122,55399.0,6.0,Purple,Agree,Neutral,Agree,Strongly Agree,Strongly Agree,On-Site,Renewable Energy,85.27
+216543,218097,Asia,Female,38.0,1.0,9.473490201,17.38017629,6.926278588,74543.0,6.0,Purple,Strongly Agree,Neutral,Strongly Agree,Neutral,Neutral,On-Site,Tech,85.21
+182526,184080,South America,Male,40.0,0.0,13.69573743,25.09898907,9.136619561,63432.0,4.0,Purple,Strongly Agree,Disagree,Agree,Strongly Agree,Strongly Agree,On-Site,Higher Education,85.18
+75054,76608,Asia,Female,58.0,0.0,21.88958328,6.521684129,7.221098669,41870.0,8.0,Purple,Strongly Agree,Disagree,Strongly Agree,Neutral,Neutral,On-Site,Finance,85.13
+5555,7109,Europe,Female,59.0,0.0,11.11885413,22.81005361,6.719912436,70214.0,4.0,Purple,Agree,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,On-Site,Finance,85.08
+226329,227883,Asia,Male,53.0,0.0,13.00393757,19.59876679,6.785293233,65253.0,5.0,Blue,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Hybrid,Renewable Energy,85.07
+9609,11163,Asia,Female,38.0,0.0,11.79088849,17.64691854,6.861975974,68445.0,6.0,Blue,Strongly Agree,Agree,Agree,Neutral,Strongly Agree,On-Site,Tech,85.06
+71732,73286,North America,Male,59.0,0.0,9.406817642,23.17564703,9.075848591,74719.0,5.0,Purple,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Hybrid,Higher Education,85.0
+37786,39340,North America,Female,49.0,0.0,15.20428487,29.22301453,8.274187375,59462.0,3.0,Purple,Strongly Agree,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,On-Site,Renewable Energy,84.99
+128551,130105,North America,Male,55.0,0.0,7.927564842,24.5728025,9.541975901,78612.0,3.0,Purple,Agree,Disagree,Strongly Agree,Strongly Agree,Agree,Hybrid,Tech,84.95
+70882,72436,North America,Female,41.0,0.0,13.01941375,19.23206945,9.344874727,65212.0,6.0,Purple,Agree,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Hybrid,Higher Education,84.93
+220696,222250,North America,Female,57.0,0.0,2.980110697,24.32657151,8.880729764,91631.0,5.0,Purple,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Hybrid,Tech,84.92
+62889,64443,Asia,Male,58.0,0.0,10.77020974,16.92871121,6.862879698,71131.0,6.0,Purple,Agree,Neutral,Agree,Neutral,Strongly Agree,On-Site,Finance,84.87
+214420,215974,North America,Male,40.0,0.0,10.24443245,30.7503506,8.515220339,72515.0,2.0,Blue,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,On-Site,Finance,84.8
+183627,185181,North America,Male,61.0,0.0,9.168299528,8.436513536,10.015725,75347.0,7.0,Purple,Agree,Disagree,Agree,Disagree,Strongly Agree,Hybrid,Tech,84.76
+143533,145087,North America,Female,43.0,0.0,5.483713123,25.88484947,8.155697092,85043.0,4.0,Purple,Neutral,Neutral,Agree,Strongly Agree,Strongly Agree,On-Site,Renewable Energy,84.7
+128829,130383,Asia,Female,66.0,0.0,10.60154761,22.93852815,6.451961604,71575.0,5.0,Purple,Disagree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Agree,On-Site,Higher Education,84.69
+192327,193881,North America,Male,45.0,1.0,17.83945817,21.51707196,9.488379215,52528.0,5.0,Blue,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Hybrid,Higher Education,84.63
+176270,177824,North America,Female,41.0,0.0,9.557125062,21.86839859,9.16479938,74323.0,5.0,Purple,Strongly Agree,Strongly Disagree,Agree,Neutral,Strongly Agree,On-Site,Renewable Energy,84.53
+169385,170939,North America,Male,51.0,0.0,12.20593334,3.61814209,10.03340555,67353.0,8.0,Blue,Agree,Strongly Disagree,Agree,Neutral,Agree,Hybrid,Renewable Energy,84.49
+203677,205231,Africa,Female,33.0,1.0,11.84705288,18.96337637,6.922776228,68297.0,5.0,Purple,Strongly Agree,Strongly Agree,Neutral,Neutral,Strongly Agree,Remote,Tech,84.44
+28263,29817,North America,Female,50.0,0.0,7.952211753,7.506771719,9.932571467,78547.0,8.0,Purple,Disagree,Strongly Agree,Neutral,Neutral,Strongly Agree,On-Site,Finance,84.41
+170872,172426,North America,Male,50.0,0.0,10.64060315,26.77154601,9.239111321,71472.0,3.0,Purple,Strongly Agree,Disagree,Agree,Agree,Strongly Agree,On-Site,Renewable Energy,84.33
+12344,13898,Asia,Female,55.0,0.0,12.39671551,15.82105104,7.030030842,66851.0,6.0,Purple,Agree,Disagree,Disagree,Strongly Agree,Strongly Agree,On-Site,Renewable Energy,84.32
+109841,111395,North America,Male,53.0,0.0,15.04923765,21.29619708,9.594143572,59870.0,5.0,Blue,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Remote,Tech,84.32
+206243,207797,Africa,Male,38.0,0.0,15.5890497,2.959272796,7.342797989,58450.0,8.0,Purple,Agree,Disagree,Agree,Neutral,Strongly Agree,Hybrid,Renewable Energy,84.14
+181913,183467,Asia,Male,32.0,0.0,9.435747284,22.68043022,6.697480406,74643.0,4.0,Blue,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Hybrid,Tech,84.13
+144306,145860,Africa,Male,53.0,1.0,9.903077865,27.64234684,6.479210585,73413.0,3.0,Purple,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,On-Site,Renewable Energy,84.01
