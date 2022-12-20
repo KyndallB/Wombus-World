@@ -61,7 +61,7 @@
  
 • Employee scores were used to predict and calculate candidate scores via regression analysis.
 
-• The regression equation was used to create a new score variable for employees called "predicted score"; the predicted and original scores were compared via MSE.
+• The regression equation was used to create a new score variable for employees called "predicted score"; the predicted and original scores were compared by a scatterplot and MSE.
 
 • The candidate and employee descriptive statistics were compared for similarity using T-test for unequal variances. 
 
